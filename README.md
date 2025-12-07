@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/wjywy/miniAntd">
-    <img width="120" src="https://github.com/wjywy/miniAntd/blob/main/public/logo.png">
-  </a>
-</p>
+
 <h1 align="center">seed ui</h1>
 
 <div align="center">
@@ -12,7 +8,7 @@ Seed UI，是一款基于 Dumi，由 React + TypeScript 开发的组件库 🎉�
 
 </div>
 
-UI 设计方面会大量参考[Ant Design 组件库](https://ant.design/index-cn)，同时组件的使用方式也会参照 Ant Design 进行实现。由于我们能力有限，有不周之处还望批评指正！
+UI 设计方面会大量参考[Ant Design 组件库](https://ant.design/index-cn)，同时组件的使用方式也会参照 Ant Design 进行实现。由于能力有限，有不周之处还望批评指正！
 
 ## ✨ 特性
 
